@@ -412,7 +412,7 @@ section p {
 
 .description p {
     font-size: 0.8rem;
-    line-height: 20px;
+    line-height: 1.2rem;
     margin-bottom: 10px;
 }
 
@@ -911,6 +911,11 @@ svg {
         margin: 10px;
     }
 
+    .description p {
+        font-size: 0.9rem;
+        line-height: 1.3rem;
+    }
+
     #modal {
         width: 90vw;
     }
@@ -946,6 +951,7 @@ svg {
         background: transparent;
         color: #141414;
         font-weight: 600;
+        font-size: 1rem;
     }
 
     #btnMore:hover {
