@@ -7,7 +7,7 @@
 
 ## 💻 Prévia do Projeto:
 
-<img width="600px" src="https://ik.imagekit.io/wlkj8nxrb/gif_portfolio_ltlARyyLC.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1654544886115" />
+<img width="600px" src="https://i.ibb.co/RjvwVD3/gif-portfolio.gif" />
 
 <br>
 
