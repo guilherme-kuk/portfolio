@@ -7,11 +7,11 @@
 
 ## 💻 Prévia do Projeto:
 
-<img width="600px" src="https://i.ibb.co/RjvwVD3/gif-portfolio.gif" />
+<img width="600px" src="https://i.ibb.co/JcbmqDx/gif-portfolio.gif" />
 
 <br>
 
-- ## [Clique aqui e veja o site](https://guilhermekuk-info.netlify.app/)
+- [Clique aqui e veja o site](https://guilhermekuk-info.netlify.app/)
 
 <br>
 
