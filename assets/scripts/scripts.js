@@ -26,15 +26,14 @@ const btnSubmit = document.getElementById('btnSubmit');
 const successIcon = document.querySelector('.success');
 const formContact = document.querySelector('.form-contact');
 
-$('form').on('submit',function(e){
-    e.preventDefault();
+$(formContact).on('submit',function(e){
+    // e.preventDefault();
     btnSubmit.style.display = 'none';
-    $('.success').fadeIn(500).show();
-    formContact.reset();
+    $('.success').fadeIn(300).show();
 
-    setTimeout(function() {
-        successIcon.style.display = 'none';
-        $(btnSubmit).fadeIn().show();
-    }, 1500);
+    // setTimeout(function() {
+    //     successIcon.style.display = 'none';
+    //     $(btnSubmit).fadeIn().show();
+    // }, 1500);
 
 });

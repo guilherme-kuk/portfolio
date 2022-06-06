@@ -177,6 +177,7 @@
                                     <div class="company">
                                         <h3>Instrutor de Informática</h3>
                                         <span>fev de 2019 à fev de 2021</span>
+                                        <span>jan de 2022 à mai de 2022</span>
                                     </div>
                                 </div>
                                 <div class="description">
@@ -196,15 +197,15 @@
                                     </div>
                                     <div class="company">
                                         <h3>Técnico em Informática</h3>
-                                        <span>Autônomo - 2013 à 2015</span>
+                                        <span>Autônomo - 2013 a 2015</span>
                                     </div>
                                 </div>
                                 <div class="description">
                                     <p>
-                                        Montagem e manutenção de desktop e notebooks.
+                                        Atendimento ao cliente, montagem e manutenção de desktop e notebooks.
                                     </p>
                                     <p>
-                                        Assistência geral em informática (impressora, redes e etc).
+                                        Assistência geral em informática (impressora, redes e etc.).
                                     </p>
                                 </div>
                             </div>
@@ -329,9 +330,12 @@
         </svg>
         <div id="formContact">
             <h1>Entre em contato comigo!</h1>
-            <form action="" class="form-contact">
+            <form action="https://formsubmit.co/guilhermekuk@gmail.com" method="POST" class="form-contact">
+                <input type="hidden" name="_next" value="https://guilhermekuk-info.netlify.app/">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_template" value="table">
                 <div class="campo-form">
-                    <input type="text" name="namei" id="namei" autocomplete="off" class="text-input"
+                    <input type="text" name="name" id="namei" autocomplete="off" class="text-input"
                         placeholder="Digite seu nome..." required>
                     <label for="namei" class="label">Nome</label>
                 </div>
@@ -341,9 +345,9 @@
                     <label for="email" class="label">E-mail</label>
                 </div>
                 <div class="campo-form">
-                    <textarea name="text" id="text" cols="30" rows="5" class="text-input" placeholder="Mensagem..."
+                    <textarea name="message" id="message" cols="30" rows="5" class="text-input" placeholder="Mensagem..."
                         required></textarea>
-                    <label for="text" class="label">Mensagem</label>
+                    <label for="message" class="label">Mensagem</label>
                 </div>
                 <input type="submit" value="Enviar mensagem" id="btnSubmit">
                 <div class="success">
