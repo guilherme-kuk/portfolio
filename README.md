@@ -6,9 +6,8 @@
 <br>
 
 ## 💻 Prévia do Projeto:
-<a href="https://guilhermekuk-info.netlify.app/" target="_blank">
-    <img src="https://i.ibb.co/RjvwVD3/gif-portfolio.gif">
-</a>
+
+<img src="https://i.ibb.co/RjvwVD3/gif-portfolio.gif">
 
 <br>
 
