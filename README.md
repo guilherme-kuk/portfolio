@@ -5,13 +5,26 @@
 
 <br>
 
-## 💻 Prévia do Projeto:
+<!-- ## 💻 Prévia do Projeto: -->
 
+<<<<<<< HEAD
 <img width="600px" src="https://i.ibb.co/JcbmqDx/gif-portfolio.gif" />
+=======
+<h1>
+  <img 
+    src="https://ik.imagekit.io/dwei78ukbe/nasaGIF_kz_H03oo4.gif"
+  />
+</h1>
+>>>>>>> 0ec42807abe4761c536158d2131ce56e89672294
 
-<br>
 
+<<<<<<< HEAD
 - [Clique aqui e veja o site](https://guilhermekuk-info.netlify.app/)
+=======
+<!-- <br> -->
+
+<!-- - ## [Clique aqui e veja o site](https://guilhermekuk-info.netlify.app/) -->
+>>>>>>> 0ec42807abe4761c536158d2131ce56e89672294
 
 <br>
 
