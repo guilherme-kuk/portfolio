@@ -7,7 +7,7 @@
 
 ## 💻 Prévia do Projeto:
 
-<img src="https://i.ibb.co/RjvwVD3/gif-portfolio.gif">
+<img width="600" height="300" src="https://i.ibb.co/RjvwVD3/gif-portfolio.gif"/>
 
 <br>
 
