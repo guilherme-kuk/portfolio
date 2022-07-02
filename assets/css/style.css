@@ -44,7 +44,7 @@ a {
 header {
     display: flex;
     justify-content: center;
-    margin-top: 90px;
+    margin-top: 40px;
     flex-wrap: wrap;
 }
 
